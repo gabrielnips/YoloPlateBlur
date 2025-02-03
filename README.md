@@ -1,10 +1,7 @@
 # Yolo Plate Blur
 ## Demo
 
-
-https://raw.githubusercontent.com/gabrielnips/YoloPlateBlur/refs/heads/main/out.mp4
-
-
+<video src="https://github.com/gabrielnips/YoloPlateBlur/blob/961082dc264157f5e5a402f6d9df0aa6ee04e630/out.mp4" controls width="600"></video>
 
 ## Data
 
