@@ -1,4 +1,4 @@
-# Automatic-Number-Plate-Recognition-YOLOv8
+# Yolo Plate Blur
 ## Demo
 
 
