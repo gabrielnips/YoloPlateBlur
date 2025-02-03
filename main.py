@@ -9,7 +9,7 @@ import sys
 
 # Barra de progresso animada
 def animated_progress():
-    animations = ['[.]', '[/]', '[|]', '[\]',]
+    animations = [r'[-]', r'[/]', r'[|]', r'[\]']
     while True:
         for anim in animations:
             yield anim

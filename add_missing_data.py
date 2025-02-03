@@ -2,6 +2,10 @@ import csv
 import numpy as np
 from scipy.interpolate import interp1d
 
+import warnings
+# Suprimir avisos
+warnings.filterwarnings("ignore")
+
 def interpolate_bounding_boxes(data):
     frame_numbers = np.array([int(row['frame_nmr']) for row in data])
     car_ids = np.array([int(float(row['car_id'])) for row in data])
