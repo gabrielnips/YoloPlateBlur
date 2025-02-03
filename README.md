@@ -2,7 +2,7 @@
 ## Demo
 
 
-https://github.com/gabrielnips/YoloPlateBlur/blob/b61f913c602ce1f3d153b8a4d958f97c1b6e2227/out%20(2).mp4
+https://raw.githubusercontent.com/gabrielnips/YoloPlateBlur/refs/heads/main/out.mp4
 
 
 
